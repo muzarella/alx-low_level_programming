@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * 	main - Print base
+ *	main - Print base
  *	Return: Always 0 (Success)
  */
 int main(void)
