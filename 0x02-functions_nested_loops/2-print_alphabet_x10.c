@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include "main.h"
 /**
- *	main - Entry point.
+ *	File - Print alphabet Entry point.
  *
- *	Return: void
+ *	Desc: void
  */
 
 void print_alphabet_x10(void)

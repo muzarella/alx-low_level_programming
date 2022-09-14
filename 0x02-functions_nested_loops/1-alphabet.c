@@ -1,11 +1,9 @@
 #include <stdio.h>
 #include "main.h"
 /**
- *	main - Entry point.
+ *	File:	Print alphabet point.
  *
- * 	Desc:declartions for all function
- *
- *	Return: void
+ *	Desc:	Declartions for all function
  */
 
 void print_alphabet(void)
