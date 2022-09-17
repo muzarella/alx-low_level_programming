@@ -3,7 +3,7 @@
 /**
  * Print_numbers - Print line char nth times.
  * @n: input nth num.
- * Return 1 (Sucess) OR 0 (Failure)
+ * Return void
  */
 void print_line(int n)
 {

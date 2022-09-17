@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * _Print_numbers- Print most numbers between 0 to 9.
+ * Print_numbers - Print most numbers between 0 to 9.
  * Return 1 (Sucess) OR 0 (Failure)
  */
 

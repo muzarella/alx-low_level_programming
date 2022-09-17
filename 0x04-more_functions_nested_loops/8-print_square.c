@@ -3,7 +3,7 @@
 /**
  * Print_square - Print square line nth times.
  * @size: input nth num.
- * Return 1 (Sucess) OR 0 (Failure)
+ * Return void
  */
 void print_square(int size)
 {
