@@ -2,9 +2,8 @@
 #include <stdio.h>
 /**
  * Print_numbers - Print most numbers between 0 to 9.
- * Return 1 (Sucess) OR 0 (Failure)
+ * Return void
  */
-
 void print_numbers(void)
 {
 		int i;
